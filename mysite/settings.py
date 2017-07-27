@@ -25,7 +25,7 @@ SECRET_KEY = 'eta&(h-paq_a==&3&vi9_9+krsbk1+ifdgz-g$y&98a!lz8!ys'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
